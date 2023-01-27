@@ -148,4 +148,4 @@ void DisplayResult()
   lcd.setCursor(0, 1);   // set the cursor to column 0, line 1
   lcd.print(Number); //Display the result
 }
-
+// if u want to have a look on the circuit, u can visit this link: https://www.tinkercad.com/things/1upTSQz4RRp-calculator/editel?sharecode=Z9qe_oVeCemNxjirz2jTIPNg6fDv2SmgCeOPnTy43lc
