@@ -25,6 +25,7 @@ void setup() {
    delay(2000); //Wait for display to show info
     lcd.clear(); //Then clean it
 }
+
 void loop() { 
 key = kpd.getKey(); //storing pressed key value in a char
 if (key!=NO_KEY)
